@@ -1,5 +1,9 @@
 # Revision history for ordered-containers
 
+## 0.3 -- unreleased
+
+* Add `Data.HashSet.Ordered`.
+
 ## 0.2.3 -- unreleased
 
 * Add `GHC.Exts.IsList` instances.
